@@ -49,6 +49,7 @@ mdg:color-grid@0.0.1
 mdg:flow-router-extensions@0.0.1
 mdg:form-components@0.0.1
 mdg:outlines@0.0.1
+mdg:react-meteor-app@0.0.1
 mdg:utils@0.0.1
 mdg:validation-error@0.5.1
 meteor@1.1.10
